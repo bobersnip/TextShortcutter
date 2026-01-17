@@ -1,0 +1,9 @@
+README.md
+setup.py
+src/TextShortcutter.egg-info/PKG-INFO
+src/TextShortcutter.egg-info/SOURCES.txt
+src/TextShortcutter.egg-info/dependency_links.txt
+src/TextShortcutter.egg-info/entry_points.txt
+src/TextShortcutter.egg-info/not-zip-safe
+src/TextShortcutter.egg-info/requires.txt
+src/TextShortcutter.egg-info/top_level.txt

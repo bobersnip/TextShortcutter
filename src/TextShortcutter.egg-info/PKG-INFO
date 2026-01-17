@@ -1,3 +1,39 @@
+Metadata-Version: 2.4
+Name: TextShortcutter
+Version: 1.0.0
+Summary: A secure text expander application with configurable trigger keys
+Home-page: https://github.com/bobersnip/TextShortcutter
+Author: Convenience Culture LLC
+Author-email: convenienceculturellc@gmail.com
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: Other/Proprietary License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Utilities
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: PyQt5>=5.15.0
+Requires-Dist: keyboard>=0.13.0
+Requires-Dist: pyperclip>=1.8.0
+Requires-Dist: psutil>=5.8.0
+Requires-Dist: pygetwindow>=0.0.9
+Requires-Dist: pynput>=1.7.0
+Requires-Dist: cryptography>=3.4.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
 # TextShortcutter
 
 Text shortcut app. Everything TextExpander wishes it was. Better shortcuts, better templates, better SECURITY!

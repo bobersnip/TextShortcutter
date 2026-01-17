@@ -39,3 +39,19 @@
 
 # debug information files
 *.dwo
+
+# Python env
+.env
+env
+venv
+temp
+tmp
+__pycache__
+
+*.pyi
+*.pyc
+*.sqlite
+*.coverage
+.DS_Store
+env.sh
+migrations
